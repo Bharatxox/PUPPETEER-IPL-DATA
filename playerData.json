@@ -1,0 +1,142 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "teamName": "RCB",
+    "score": "741",
+    "highScore": "113*",
+    "strikeRate": "154.69"
+  },
+  {
+    "playerName": "Ruturaj Gaikwad",
+    "teamName": "CSK",
+    "score": "583",
+    "highScore": "108*",
+    "strikeRate": "141.16"
+  },
+  {
+    "playerName": "Riyan Parag",
+    "teamName": "RR",
+    "score": "573",
+    "highScore": "84*",
+    "strikeRate": "149.21"
+  },
+  {
+    "playerName": "Travis Head",
+    "teamName": "SRH",
+    "score": "567",
+    "highScore": "102",
+    "strikeRate": "191.55"
+  },
+  {
+    "playerName": "Sanju Samson",
+    "teamName": "RR",
+    "score": "531",
+    "highScore": "86",
+    "strikeRate": "153.46"
+  },
+  {
+    "playerName": "Sai Sudharsan",
+    "teamName": "GT",
+    "score": "527",
+    "highScore": "103",
+    "strikeRate": "141.28"
+  },
+  {
+    "playerName": "K L Rahul",
+    "teamName": "LSG",
+    "score": "520",
+    "highScore": "82",
+    "strikeRate": "136.12"
+  },
+  {
+    "playerName": "Nicholas Pooran",
+    "teamName": "LSG",
+    "score": "499",
+    "highScore": "75",
+    "strikeRate": "178.21"
+  },
+  {
+    "playerName": "Sunil Narine",
+    "teamName": "KKR",
+    "score": "488",
+    "highScore": "109",
+    "strikeRate": "180.74"
+  },
+  {
+    "playerName": "Abhishek Sharma",
+    "teamName": "SRH",
+    "score": "484",
+    "highScore": "75*",
+    "strikeRate": "204.21"
+  },
+  {
+    "playerName": "Heinrich Klaasen",
+    "teamName": "SRH",
+    "score": "479",
+    "highScore": "80*",
+    "strikeRate": "171.07"
+  },
+  {
+    "playerName": "Rishabh Pant",
+    "teamName": "DC",
+    "score": "446",
+    "highScore": "88*",
+    "strikeRate": "155.40"
+  },
+  {
+    "playerName": "Faf Du Plessis",
+    "teamName": "RCB",
+    "score": "438",
+    "highScore": "64",
+    "strikeRate": "161.62"
+  },
+  {
+    "playerName": "Phil Salt",
+    "teamName": "KKR",
+    "score": "435",
+    "highScore": "89*",
+    "strikeRate": "182.00"
+  },
+  {
+    "playerName": "Yashasvi Jaiswal",
+    "teamName": "RR",
+    "score": "435",
+    "highScore": "104*",
+    "strikeRate": "155.91"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "teamName": "GT",
+    "score": "426",
+    "highScore": "104",
+    "strikeRate": "147.40"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "teamName": "MI",
+    "score": "417",
+    "highScore": "105*",
+    "strikeRate": "150.00"
+  },
+  {
+    "playerName": "Tilak Varma",
+    "teamName": "MI",
+    "score": "416",
+    "highScore": "65",
+    "strikeRate": "149.64"
+  },
+  {
+    "playerName": "Shivam Dube",
+    "teamName": "CSK",
+    "score": "396",
+    "highScore": "66*",
+    "strikeRate": "162.29"
+  },
+  {
+    "playerName": "Rajat Patidar",
+    "teamName": "RCB",
+    "score": "395",
+    "highScore": "55",
+    "strikeRate": "177.13"
+  }
+]
