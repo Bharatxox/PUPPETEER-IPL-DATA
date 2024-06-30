@@ -2,6 +2,26 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 const path = require("path");
 
+const selectSeason = async (page, no) => {
+  // no start with 2 and end with 5 in a loop
+  try {
+    // await page.waitForSelector("#battingTAB > table > tbody > tr", {
+    //   timeout: 60000,
+    // });
+    await page.click(
+      "body > div.matchCenter.stats-widget.ng-scope > div.smStatsBg > div > section > div > div.np-leader > div.pp > div:nth-child(1) > div > div > div:nth-child(1) > div > div.cSBDisplay.ng-binding"
+    );
+    await Promise.all([
+      // page.waitForSelector("div.cSBList.active"),
+      page.click(`div > div.cSBList.active > div:nth-child(${no})`),
+      page.waitForNavigation({ waitUntil: "networkidle2" }),
+    ]);
+  } catch (error) {
+    console.error(`Error selecting season ${no}:`, error);
+    throw error;
+  }
+};
+
 const scrapePlayerData = async (page) => {
   let list = [];
 
@@ -87,12 +107,22 @@ const scrapePlayerData = async (page) => {
   await page.goto("https://www.iplt20.com/stats/", {
     waitUntil: "load",
   });
+  let allPlayerData = [];
 
-  let sessionDATA = await scrapePlayerData(page);
+  let currentSeasonData = await scrapePlayerData(page);
+  allPlayerData = allPlayerData.concat(currentSeasonData);
+
+  //now run the loop from 2 to 5 for each page
+  for (let i = 2; i <= 5; i++) {
+    await selectSeason(page, i);
+    let seasonData = await scrapePlayerData(page);
+    console.log(seasonData);
+    allPlayerData = allPlayerData.concat(seasonData);
+  }
 
   fs.writeFileSync(
-    path.join(__dirname, "playerData.json"),
-    JSON.stringify(sessionDATA, null, 2),
+    path.join(__dirname, "allPlayerDATA.json"),
+    JSON.stringify(allPlayerData, null, 2),
     "utf8"
   );
   await browser.close();

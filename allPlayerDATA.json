@@ -1,0 +1,702 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "teamName": "RCB",
+    "score": "741",
+    "highScore": "113*",
+    "strikeRate": "154.69"
+  },
+  {
+    "playerName": "Ruturaj Gaikwad",
+    "teamName": "CSK",
+    "score": "583",
+    "highScore": "108*",
+    "strikeRate": "141.16"
+  },
+  {
+    "playerName": "Riyan Parag",
+    "teamName": "RR",
+    "score": "573",
+    "highScore": "84*",
+    "strikeRate": "149.21"
+  },
+  {
+    "playerName": "Travis Head",
+    "teamName": "SRH",
+    "score": "567",
+    "highScore": "102",
+    "strikeRate": "191.55"
+  },
+  {
+    "playerName": "Sanju Samson",
+    "teamName": "RR",
+    "score": "531",
+    "highScore": "86",
+    "strikeRate": "153.46"
+  },
+  {
+    "playerName": "Sai Sudharsan",
+    "teamName": "GT",
+    "score": "527",
+    "highScore": "103",
+    "strikeRate": "141.28"
+  },
+  {
+    "playerName": "K L Rahul",
+    "teamName": "LSG",
+    "score": "520",
+    "highScore": "82",
+    "strikeRate": "136.12"
+  },
+  {
+    "playerName": "Nicholas Pooran",
+    "teamName": "LSG",
+    "score": "499",
+    "highScore": "75",
+    "strikeRate": "178.21"
+  },
+  {
+    "playerName": "Sunil Narine",
+    "teamName": "KKR",
+    "score": "488",
+    "highScore": "109",
+    "strikeRate": "180.74"
+  },
+  {
+    "playerName": "Abhishek Sharma",
+    "teamName": "SRH",
+    "score": "484",
+    "highScore": "75*",
+    "strikeRate": "204.21"
+  },
+  {
+    "playerName": "Heinrich Klaasen",
+    "teamName": "SRH",
+    "score": "479",
+    "highScore": "80*",
+    "strikeRate": "171.07"
+  },
+  {
+    "playerName": "Rishabh Pant",
+    "teamName": "DC",
+    "score": "446",
+    "highScore": "88*",
+    "strikeRate": "155.40"
+  },
+  {
+    "playerName": "Faf Du Plessis",
+    "teamName": "RCB",
+    "score": "438",
+    "highScore": "64",
+    "strikeRate": "161.62"
+  },
+  {
+    "playerName": "Phil Salt",
+    "teamName": "KKR",
+    "score": "435",
+    "highScore": "89*",
+    "strikeRate": "182.00"
+  },
+  {
+    "playerName": "Yashasvi Jaiswal",
+    "teamName": "RR",
+    "score": "435",
+    "highScore": "104*",
+    "strikeRate": "155.91"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "teamName": "GT",
+    "score": "426",
+    "highScore": "104",
+    "strikeRate": "147.40"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "teamName": "MI",
+    "score": "417",
+    "highScore": "105*",
+    "strikeRate": "150.00"
+  },
+  {
+    "playerName": "Tilak Varma",
+    "teamName": "MI",
+    "score": "416",
+    "highScore": "65",
+    "strikeRate": "149.64"
+  },
+  {
+    "playerName": "Shivam Dube",
+    "teamName": "CSK",
+    "score": "396",
+    "highScore": "66*",
+    "strikeRate": "162.29"
+  },
+  {
+    "playerName": "Rajat Patidar",
+    "teamName": "RCB",
+    "score": "395",
+    "highScore": "55",
+    "strikeRate": "177.13"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "teamName": "GT",
+    "score": "890",
+    "highScore": "129",
+    "strikeRate": "157.80"
+  },
+  {
+    "playerName": "Faf Du Plessis",
+    "teamName": "RCB",
+    "score": "730",
+    "highScore": "84",
+    "strikeRate": "153.68"
+  },
+  {
+    "playerName": "Devon Conway",
+    "teamName": "CSK",
+    "score": "672",
+    "highScore": "92*",
+    "strikeRate": "139.70"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "teamName": "RCB",
+    "score": "639",
+    "highScore": "101*",
+    "strikeRate": "139.82"
+  },
+  {
+    "playerName": "Yashasvi Jaiswal",
+    "teamName": "RR",
+    "score": "625",
+    "highScore": "124",
+    "strikeRate": "163.61"
+  },
+  {
+    "playerName": "Suryakumar Yadav",
+    "teamName": "MI",
+    "score": "605",
+    "highScore": "103*",
+    "strikeRate": "181.13"
+  },
+  {
+    "playerName": "Ruturaj Gaikwad",
+    "teamName": "CSK",
+    "score": "590",
+    "highScore": "92",
+    "strikeRate": "147.50"
+  },
+  {
+    "playerName": "David Warner",
+    "teamName": "DC",
+    "score": "516",
+    "highScore": "86",
+    "strikeRate": "131.63"
+  },
+  {
+    "playerName": "Rinku Singh",
+    "teamName": "KKR",
+    "score": "474",
+    "highScore": "67*",
+    "strikeRate": "149.52"
+  },
+  {
+    "playerName": "Ishan Kishan",
+    "teamName": "MI",
+    "score": "454",
+    "highScore": "75",
+    "strikeRate": "142.76"
+  },
+  {
+    "playerName": "Cameron Green",
+    "teamName": "MI",
+    "score": "452",
+    "highScore": "100*",
+    "strikeRate": "160.28"
+  },
+  {
+    "playerName": "Heinrich Klaasen",
+    "teamName": "SRH",
+    "score": "448",
+    "highScore": "104",
+    "strikeRate": "177.07"
+  },
+  {
+    "playerName": "Shivam Dube",
+    "teamName": "CSK",
+    "score": "418",
+    "highScore": "52",
+    "strikeRate": "158.33"
+  },
+  {
+    "playerName": "Nitish Rana",
+    "teamName": "KKR",
+    "score": "413",
+    "highScore": "75",
+    "strikeRate": "140.95"
+  },
+  {
+    "playerName": "Marcus Stoinis",
+    "teamName": "LSG",
+    "score": "408",
+    "highScore": "89*",
+    "strikeRate": "150.00"
+  },
+  {
+    "playerName": "Venkatesh Iyer",
+    "teamName": "KKR",
+    "score": "404",
+    "highScore": "104",
+    "strikeRate": "145.84"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "teamName": "RCB",
+    "score": "400",
+    "highScore": "77",
+    "strikeRate": "183.48"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "teamName": "RR",
+    "score": "392",
+    "highScore": "95",
+    "strikeRate": "139.00"
+  },
+  {
+    "playerName": "Kyle Mayers",
+    "teamName": "LSG",
+    "score": "379",
+    "highScore": "73",
+    "strikeRate": "144.10"
+  },
+  {
+    "playerName": "Shikhar Dhawan",
+    "teamName": "PBKS",
+    "score": "373",
+    "highScore": "99*",
+    "strikeRate": "142.91"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "teamName": "RR",
+    "score": "863",
+    "highScore": "116",
+    "strikeRate": "149.05"
+  },
+  {
+    "playerName": "K L Rahul",
+    "teamName": "LSG",
+    "score": "616",
+    "highScore": "103*",
+    "strikeRate": "135.38"
+  },
+  {
+    "playerName": "Quinton De Kock",
+    "teamName": "LSG",
+    "score": "508",
+    "highScore": "140*",
+    "strikeRate": "148.97"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "teamName": "GT",
+    "score": "487",
+    "highScore": "87*",
+    "strikeRate": "131.26"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "teamName": "GT",
+    "score": "483",
+    "highScore": "96",
+    "strikeRate": "132.32"
+  },
+  {
+    "playerName": "David Miller",
+    "teamName": "GT",
+    "score": "481",
+    "highScore": "94*",
+    "strikeRate": "142.72"
+  },
+  {
+    "playerName": "Faf Du Plessis",
+    "teamName": "RCB",
+    "score": "468",
+    "highScore": "96",
+    "strikeRate": "127.52"
+  },
+  {
+    "playerName": "Shikhar Dhawan",
+    "teamName": "PBKS",
+    "score": "460",
+    "highScore": "88*",
+    "strikeRate": "122.66"
+  },
+  {
+    "playerName": "Sanju Samson",
+    "teamName": "RR",
+    "score": "458",
+    "highScore": "55",
+    "strikeRate": "146.79"
+  },
+  {
+    "playerName": "Deepak Hooda",
+    "teamName": "LSG",
+    "score": "451",
+    "highScore": "59",
+    "strikeRate": "136.66"
+  },
+  {
+    "playerName": "Liam Livingstone",
+    "teamName": "PBKS",
+    "score": "437",
+    "highScore": "70",
+    "strikeRate": "182.08"
+  },
+  {
+    "playerName": "David Warner",
+    "teamName": "DC",
+    "score": "432",
+    "highScore": "92*",
+    "strikeRate": "150.52"
+  },
+  {
+    "playerName": "Abhishek Sharma",
+    "teamName": "SRH",
+    "score": "426",
+    "highScore": "75",
+    "strikeRate": "133.12"
+  },
+  {
+    "playerName": "Ishan Kishan",
+    "teamName": "MI",
+    "score": "418",
+    "highScore": "81*",
+    "strikeRate": "120.11"
+  },
+  {
+    "playerName": "Rahul Tripathi",
+    "teamName": "SRH",
+    "score": "413",
+    "highScore": "76",
+    "strikeRate": "158.23"
+  },
+  {
+    "playerName": "Shreyas Iyer",
+    "teamName": "KKR",
+    "score": "401",
+    "highScore": "85",
+    "strikeRate": "134.56"
+  },
+  {
+    "playerName": "Tilak Varma",
+    "teamName": "MI",
+    "score": "397",
+    "highScore": "61",
+    "strikeRate": "131.02"
+  },
+  {
+    "playerName": "Aiden Markram",
+    "teamName": "SRH",
+    "score": "381",
+    "highScore": "68*",
+    "strikeRate": "139.05"
+  },
+  {
+    "playerName": "Devdutt Padikkal",
+    "teamName": "RR",
+    "score": "376",
+    "highScore": "54",
+    "strikeRate": "122.87"
+  },
+  {
+    "playerName": "Ruturaj  Gaikwad",
+    "teamName": "CSK",
+    "score": "368",
+    "highScore": "99",
+    "strikeRate": "126.46"
+  },
+  {
+    "playerName": "Ruturaj Gaikwad",
+    "teamName": "CSK",
+    "score": "635",
+    "highScore": "101*",
+    "strikeRate": "136.26"
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "teamName": "CSK",
+    "score": "633",
+    "highScore": "95*",
+    "strikeRate": "138.20"
+  },
+  {
+    "playerName": "KL Rahul",
+    "teamName": "PBKS",
+    "score": "626",
+    "highScore": "98*",
+    "strikeRate": "138.80"
+  },
+  {
+    "playerName": "Shikhar Dhawan",
+    "teamName": "DC",
+    "score": "587",
+    "highScore": "92",
+    "strikeRate": "124.62"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "teamName": "RCB",
+    "score": "513",
+    "highScore": "78",
+    "strikeRate": "144.10"
+  },
+  {
+    "playerName": "Sanju Samson",
+    "teamName": "RR",
+    "score": "484",
+    "highScore": "119",
+    "strikeRate": "136.72"
+  },
+  {
+    "playerName": "Prithvi Shaw",
+    "teamName": "DC",
+    "score": "479",
+    "highScore": "82",
+    "strikeRate": "159.13"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "teamName": "KKR",
+    "score": "478",
+    "highScore": "57",
+    "strikeRate": "118.90"
+  },
+  {
+    "playerName": "Mayank Agarwal",
+    "teamName": "PBKS",
+    "score": "441",
+    "highScore": "99*",
+    "strikeRate": "140.44"
+  },
+  {
+    "playerName": "Rishabh Pant",
+    "teamName": "DC",
+    "score": "419",
+    "highScore": "58*",
+    "strikeRate": "128.52"
+  },
+  {
+    "playerName": "Devdutt Padikkal",
+    "teamName": "RCB",
+    "score": "411",
+    "highScore": "101*",
+    "strikeRate": "125.30"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "teamName": "RCB",
+    "score": "405",
+    "highScore": "72*",
+    "strikeRate": "119.46"
+  },
+  {
+    "playerName": "Rahul Tripathi",
+    "teamName": "KKR",
+    "score": "397",
+    "highScore": "74*",
+    "strikeRate": "140.28"
+  },
+  {
+    "playerName": "Nitish Rana",
+    "teamName": "KKR",
+    "score": "383",
+    "highScore": "80",
+    "strikeRate": "121.97"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "teamName": "MI",
+    "score": "381",
+    "highScore": "63",
+    "strikeRate": "127.42"
+  },
+  {
+    "playerName": "Venkatesh Iyer",
+    "teamName": "KKR",
+    "score": "370",
+    "highScore": "67",
+    "strikeRate": "128.47"
+  },
+  {
+    "playerName": "Moeen Ali",
+    "teamName": "CSK",
+    "score": "357",
+    "highScore": "58",
+    "strikeRate": "137.30"
+  },
+  {
+    "playerName": "Suryakumar Yadav",
+    "teamName": "MI",
+    "score": "317",
+    "highScore": "82",
+    "strikeRate": "143.43"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "teamName": "RCB",
+    "score": "313",
+    "highScore": "76*",
+    "strikeRate": "148.34"
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "teamName": "MI",
+    "score": "297",
+    "highScore": "70*",
+    "strikeRate": "116.01"
+  },
+  {
+    "playerName": "KL Rahul",
+    "teamName": "PBKS",
+    "score": "670",
+    "highScore": "132*",
+    "strikeRate": "129.34"
+  },
+  {
+    "playerName": "Shikhar Dhawan",
+    "teamName": "DC",
+    "score": "618",
+    "highScore": "106*",
+    "strikeRate": "144.73"
+  },
+  {
+    "playerName": "David Warner",
+    "teamName": "SRH",
+    "score": "548",
+    "highScore": "85*",
+    "strikeRate": "134.64"
+  },
+  {
+    "playerName": "Shreyas Iyer",
+    "teamName": "DC",
+    "score": "519",
+    "highScore": "88*",
+    "strikeRate": "123.27"
+  },
+  {
+    "playerName": "Ishan Kishan",
+    "teamName": "MI",
+    "score": "516",
+    "highScore": "99",
+    "strikeRate": "145.76"
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "teamName": "MI",
+    "score": "503",
+    "highScore": "78*",
+    "strikeRate": "140.50"
+  },
+  {
+    "playerName": "Suryakumar Yadav",
+    "teamName": "MI",
+    "score": "480",
+    "highScore": "79*",
+    "strikeRate": "145.01"
+  },
+  {
+    "playerName": "Devdutt Padikkal",
+    "teamName": "RCB",
+    "score": "473",
+    "highScore": "74",
+    "strikeRate": "124.80"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "teamName": "RCB",
+    "score": "466",
+    "highScore": "90*",
+    "strikeRate": "121.35"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "teamName": "RCB",
+    "score": "454",
+    "highScore": "73*",
+    "strikeRate": "158.74"
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "teamName": "CSK",
+    "score": "449",
+    "highScore": "87*",
+    "strikeRate": "140.75"
+  },
+  {
+    "playerName": "Shubman Gill",
+    "teamName": "KKR",
+    "score": "440",
+    "highScore": "70*",
+    "strikeRate": "117.96"
+  },
+  {
+    "playerName": "Manish Pandey",
+    "teamName": "SRH",
+    "score": "425",
+    "highScore": "83*",
+    "strikeRate": "127.62"
+  },
+  {
+    "playerName": "Mayank Agarwal",
+    "teamName": "PBKS",
+    "score": "424",
+    "highScore": "106",
+    "strikeRate": "156.45"
+  },
+  {
+    "playerName": "Eoin Morgan",
+    "teamName": "KKR",
+    "score": "418",
+    "highScore": "68*",
+    "strikeRate": "138.41"
+  },
+  {
+    "playerName": "Sanju Samson",
+    "teamName": "RR",
+    "score": "375",
+    "highScore": "85",
+    "strikeRate": "158.89"
+  },
+  {
+    "playerName": "Ambati Rayudu",
+    "teamName": "CSK",
+    "score": "359",
+    "highScore": "71",
+    "strikeRate": "127.30"
+  },
+  {
+    "playerName": "Nicholas Pooran",
+    "teamName": "PBKS",
+    "score": "353",
+    "highScore": "77",
+    "strikeRate": "169.71"
+  },
+  {
+    "playerName": "Nitish Rana",
+    "teamName": "KKR",
+    "score": "352",
+    "highScore": "87",
+    "strikeRate": "138.58"
+  },
+  {
+    "playerName": "Marcus Stoinis",
+    "teamName": "DC",
+    "score": "352",
+    "highScore": "65",
+    "strikeRate": "148.52"
+  }
+]
