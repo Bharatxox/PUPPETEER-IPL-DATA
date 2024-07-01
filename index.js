@@ -11,9 +11,10 @@ const selectSeason = async (page, no) => {
     await page.click(
       "body > div.matchCenter.stats-widget.ng-scope > div.smStatsBg > div > section > div > div.np-leader > div.pp > div:nth-child(1) > div > div > div:nth-child(1) > div > div.cSBDisplay.ng-binding"
     );
+    await page.waitForSelector("div.cSBList.active");
+    const seasonSelector = `div.cSBList.active > div:nth-child(${no})`;
     await Promise.all([
-      // page.waitForSelector("div.cSBList.active"),
-      page.click(`div > div.cSBList.active > div:nth-child(${no})`),
+      page.click(seasonSelector),
       page.waitForNavigation({ waitUntil: "networkidle2" }),
     ]);
   } catch (error) {
@@ -109,6 +110,10 @@ const scrapePlayerData = async (page) => {
   });
   let allPlayerData = [];
 
+  // await page.waitForNavigation({ waitUntil: "networkidle2" });
+  await page.waitForSelector("#battingTAB > table > tbody > tr", {
+    timeout: 60000,
+  });
   let currentSeasonData = await scrapePlayerData(page);
   allPlayerData = allPlayerData.concat(currentSeasonData);
 
